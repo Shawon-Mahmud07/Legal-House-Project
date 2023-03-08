@@ -1,0 +1,51 @@
+/* ========text color and font styles========== */
+.text-title-primary {
+  color: #414040;
+  font-family: "EB Garamond";
+}
+.title-primary {
+  font-family: "EB Garamond";
+}
+.text-title-secondary {
+  color: #707070;
+  font-family: Poppins;
+}
+.title-secondary {
+  font-family: Poppins;
+}
+.text-bg {
+  background: #b68c5a;
+}
+
+/* ======header section========== */
+.Header-banner {
+  background-image: linear-gradient(
+      to bottom,
+      rgba(53, 53, 54, 0.681),
+      rgba(19, 18, 18, 0.516)
+    ),
+    url("images/banner.png");
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 70vh;
+}
+button {
+  background-color: #b68c5a;
+  border: 1px solid #b68c5a;
+  border-radius: 4px;
+}
+
+/* =======Legal Practice styles======= */
+.card img {
+  width: 20%;
+  margin: 30px auto;
+}
+.card-body-img img {
+  width: 40px;
+}
+.card-bg-color {
+  background-color: #e7e7e784;
+}
+.img-s {
+  background-blend-mode: overlay;
+}
